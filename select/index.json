@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アニマル",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-02T10:43:33.664642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アニマル",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_アニマル_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アニマル",
+      "artist": "deco27",
+      "has_synced": true,
+      "path": "select/02_アニマル_deco27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アニマル / Animal",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_アニマル___Animal_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アニマル -アマネ Cover-",
+      "artist": "MILGRAM",
+      "has_synced": false,
+      "path": "select/04_アニマル_-アマネ_Cover-_MILGRAM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アニマル",
+      "artist": "DECO_27",
+      "has_synced": true,
+      "path": "select/05_アニマル_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アニマル",
+      "artist": "Holo*27",
+      "has_synced": true,
+      "path": "select/06_アニマル_Holo_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アニマル☆ステイション！",
+      "artist": "中谷育(CV.原嶋あかり)",
+      "has_synced": false,
+      "path": "select/07_アニマル☆ステイション!_中谷育(CV.原嶋あかり).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アニマル -アマネ Cover-",
+      "artist": "MILGRAM アマネ (CV: 田中美海)",
+      "has_synced": false,
+      "path": "select/08_アニマル_-アマネ_Cover-_MILGRAM_アマネ_(CV__田中美海).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アニマル",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_アニマル_DECO_27.txt"
+    }
+  ]
+}
